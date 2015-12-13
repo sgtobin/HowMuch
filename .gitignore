@@ -194,3 +194,7 @@ FakesAssemblies/
 
 # Visual Studio 6 workspace options file
 *.opt
+ts_js/HowMuch/App.js
+ts_js/HowMuch/DigitGroup.js
+ts_js/HowMuch/HowMuch.js
+ts_js/HowMuch/HowMuchShould.js
