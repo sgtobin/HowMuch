@@ -1,13 +1,10 @@
 # HowMuch
-HowMuch is a simple library that translates numbers into words.
+HowMuch is a simple library that translates numbers into words. The library is available in JavaScript and C#.
 
-Example:
 ```C#
 var howMuch = new HowMuch().IsThat(1001000001);
 // Outputs: one billion, one million and one
 ```
-
-The library is available in JavaScript and C#.
 
 ## JavaScript
 ### Getting Started
