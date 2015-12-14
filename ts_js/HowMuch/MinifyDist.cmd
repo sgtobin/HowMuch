@@ -1,1 +1,1 @@
-minify HowMuch.js DigitGroup.js -o ./dist/DejaVu.HowMuch.js
+minify HowMuch.js DigitGroup.js -o ./dist/DejaVu.HowMuch.min.js
